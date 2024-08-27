@@ -1,0 +1,5 @@
+# print("hello world",end=" ")
+# print("hello eddah",end="!! ")
+# print("learn python",end="!!!\n")
+# print("python is fun")
+print("Hello World! Pass this test, please.")
